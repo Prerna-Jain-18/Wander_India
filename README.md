@@ -49,33 +49,54 @@ Before running the project, make sure you have the following installed:
 - **Flask**: Web framework for Python. Install using `pip install flask`.
 - **Postman**: For testing API endpoints.
 
-### Setup Instructions
 
-1. **Clone the Repository:**
+### Installation Steps
+
+1. **Clone the repository:**
+
    ```bash
-   git clone https://github.com/yourusername/wander_india_api.git
+   git clone https://github.com/your-username/wander_india_api.git
    cd wander_india_api
    ```
 
-2. **Create a Virtual Environment:**
+2. **Set up the virtual environment:**
+
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   python -m venv .venv
    ```
 
-3. **Install Dependencies:**
+3. **Activate the virtual environment:**
+
+   - **On Windows:**
+
+     ```bash
+     .venv\Scripts\activate
+     ```
+
+   - **On macOS/Linux:**
+
+     ```bash
+     source .venv/bin/activate
+     ```
+
+4. **Install the required packages:**
+
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Configure the Database:**
-   - Update `config.py` with your MySQL credentials.
-   - Import the database schema:
-   ```bash
-   mysql -u yourusername -p wander_India_db < database_dump.sql
-   ```
+5. **Set up the database:**
 
-5. **Run the Flask Application:**
+   - Import the database schema and initial data using the provided SQL file:
+
+     ```bash
+     mysql -u your-username -p your-database-name < wander_india_api.sql
+     ```
+
+   Replace `your-username` with your MySQL username and `your-database-name` with the name of your database.
+
+6. **Run the application:**
+
    ```bash
    python run.py
    ```
@@ -125,16 +146,16 @@ Users can submit their queries via the contact form available on the home page. 
 ![Home Page](https://github.com/Prerna-Jain-18/Wander_India/blob/main/output/home_page.JPG)
 
 ### State Page
-![State Page](app/static/assets/img/output/statepage.png)
+![State Page](https://github.com/Prerna-Jain-18/Wander_India/blob/main/output/state_page.JPG)
 
 ### Tourist Attractions
-![Tourist Attractions](app/static/assets/img/output/tourist_attractions.png)
+![Tourist Attractions](https://github.com/Prerna-Jain-18/Wander_India/blob/main/output/top_destinations_state.JPG)
 
 ### Culinary Delights
-![Culinary Delights](app/static/assets/img/output/culinary_delights.png)
+![Culinary Delights](https://github.com/Prerna-Jain-18/Wander_India/blob/main/output/culinary_delights.JPG)
 
 ### Festivals
-![Festivals](app/static/assets/img/output/festivals.png)
+![Festivals](https://github.com/Prerna-Jain-18/Wander_India/blob/main/output/festivals.JPG)
 
 ## Contributing
 
