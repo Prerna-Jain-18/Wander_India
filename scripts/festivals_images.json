@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Ganesh Chaturthi",
+        "description": "A grand festival celebrating the birth of Lord Ganesha, marked by elaborate processions and rituals.",
+        "state_id": 5,
+        "date": "2024-09-07",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lalbaugh_Ganesha.jpg/1200px-Lalbaugh_Ganesha.jpg"
+    },
+    {
+        "name": "Gudi Padwa",
+        "description": "The Marathi New Year festival, celebrated with traditional rituals and festive foods.",
+        "state_id": 5,
+        "date": "2024-04-08",
+        "image_url": "https://www.hindustantimes.com/ht-img/img/2024/04/07/550x309/gudi_padwa_2024_1712490550267_1712490550436.jfif"
+    },
+    {
+        "name": "Nag Panchami",
+        "description": "A festival dedicated to the worship of snakes, observed with offerings and prayers.",
+        "state_id": 5,
+        "date": "2024-08-12",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Naag_Deuta_Naag_Sthan_Indradaha_Dahachwok_Chandragiri_Kathmandu_Nepal_Rajesh_Dhungana_%289%29.jpg"
+    },
+    {
+        "name": "Holi",
+        "description": "The festival of colors, celebrated with joy and vibrant colors.",
+        "state_id": 5,
+        "date": "2024-03-25",
+        "image_url": "https://cdn.britannica.com/57/244757-131-EBAFDFE0/Hindu-Holi-Festival-Mathura-Uttar-Pradesh-India.jpg"
+    },
+    {
+        "name": "Chhatrapati Shivaji Maharaj Jayanti",
+        "description": "A grand celebration of the birth anniversary of Chhatrapati Shivaji Maharaj, the revered Maratha king. The festival is marked by processions, cultural programs, and speeches honoring his legacy.",
+        "state_id": 5,
+        "date": "2024-02-19",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Shivaji_Maharaj_Raigad.jpg/800px-Shivaji_Maharaj_Raigad.jpg"
+    }
+]

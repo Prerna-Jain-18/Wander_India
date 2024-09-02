@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Gateway of India",
+        "description": "An iconic monument in Mumbai, overlooking the Arabian Sea.",
+        "state_id": 5,
+        "latitude": 18.922,
+        "longitude": 72.8347,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg"
+    },
+    {
+        "name": "Ajanta and Ellora Caves",
+        "description": "UNESCO World Heritage sites known for their ancient rock-cut temples and intricate carvings.",
+        "state_id": 5,
+        "latitude": 20.5524,
+        "longitude": 75.7033,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ellora_Caves%2C_India%2C_Kailasanatha_Temple_2.jpg"
+    },
+    {
+        "name": "Mahabaleshwar",
+        "description": "A scenic hill station known for its strawberry farms, viewpoints, and pleasant weather.",
+        "state_id": 5,
+        "latitude": 17.9237,
+        "longitude": 73.6586,
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/0c/ab/40/f8/very-beautiful-hill-station.jpg"
+    },
+    {
+        "name": "Shirdi",
+        "description": "A pilgrimage town known for the Sai Baba Temple, attracting millions of devotees every year.",
+        "state_id": 5,
+        "latitude": 19.7664,
+        "longitude": 74.4774,
+        "image_url": "https://content.r9cdn.net/rimg/dimg/cd/48/c31a75df-city-48605-166eb04359c.jpg?crop=true&width=1366&height=768&xhint=1830&yhint=1693"
+    },
+    {
+        "name": "Lonavala",
+        "description": "A popular hill station near Mumbai, known for its picturesque landscapes and chikki (sweet snack).",
+        "state_id": 5,
+        "latitude": 18.7481,
+        "longitude": 73.4072,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lonavalamh.jpg"
+    }
+]

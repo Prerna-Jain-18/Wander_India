@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Pav Bhaji",
+        "description": "A popular street food consisting of spiced vegetable mash served with buttered bread rolls.",
+        "state_id": 5,
+        "image_url": "https://assets.bonappetit.com/photos/63cb14735125107865c0fe8f/1:1/w_2560%2Cc_limit/012023-pav-bhaji-lede.jpg"
+    },
+    {
+        "name": "Vada Pav",
+        "description": "A Mumbai street food staple, featuring a spiced potato fritter sandwiched between a bread roll.",
+        "state_id": 5,
+        "image_url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/10/vada-pav-recipe.jpg"
+    },
+    {
+        "name": "Puran Poli",
+        "description": "A sweet flatbread stuffed with a mixture of jaggery and lentils, typically served during festivals.",
+        "state_id": 5,
+        "image_url": "https://hebbarskitchen.com/wp-content/uploads/2021/09/puran-poli-recipe-puran-poli-sweet-maharashtrian-pooran-poli-1-scaled.jpeg"
+    },
+    {
+        "name": "Misal Pav",
+        "description": "A spicy curry made from sprouted lentils, topped with farsan, and served with bread rolls.",
+        "state_id": 5,
+        "image_url": "https://ministryofcurry.com/wp-content/uploads/2019/10/misal-pav-5.jpg"
+    },
+    {
+        "name": "Shrikhand",
+        "description": "A sweet dish made from strained yogurt flavored with saffron and cardamom.",
+        "state_id": 5,
+        "image_url": "https://ministryofcurry.com/wp-content/uploads/2022/09/Shrikhand-17.jpg"
+    }
+]
