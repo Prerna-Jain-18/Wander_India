@@ -1,13 +1,7 @@
-Here’s a comprehensive `README.md` file template for your project. This template includes sections for project description, setup instructions, usage, and more. Replace placeholders with your specific information.
 
-### `README.md`
-
-```markdown
 # Wander India API
 
 Welcome to the **Wander India API** project! This project aims to provide an interactive platform showcasing India's diverse culture, tourist attractions, culinary delights, and festivals. The website serves as a gateway for exploring the various states of India, with detailed information on each state's tourism highlights.
-
-![Wander India](app/static/assets/img/portfolio/fullsize/1.png)
 
 ## Project Structure
 
@@ -128,7 +122,7 @@ Users can submit their queries via the contact form available on the home page. 
 ## Screenshots
 
 ### Home Page
-![Home Page](output/home_page.jpg)
+![Home Page](https://github.com/Prerna-Jain-18/Wander_India/blob/main/output/home_page.JPG)
 
 ### State Page
 ![State Page](app/static/assets/img/output/statepage.png)
